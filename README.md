@@ -11,7 +11,6 @@
   ![GitHub](https://img.shields.io/github/license/kokolem/Bakalarium)
   ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/kokolem/Bakalarium)
   ![GitHub last commit](https://img.shields.io/github/last-commit/kokolem/Bakalarium)
-  ![Support <3](https://kokolem.github.io/LGBT-friendly-rainbow.svg)
   
 </div>
 
